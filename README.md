@@ -12,23 +12,30 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <b>🌐 官网 / 在线使用</b><br/>
       <a href="https://aws.gongyongd.ccwu.cc/">https://aws.gongyongd.ccwu.cc/</a><br/><br/>
       <img src="qrcode-website.svg" width="180" alt="官网二维码" /><br/>
       <sub>手机扫码打开官网</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <b>💙 爱发电 / 支持与开通</b><br/>
       <a href="https://afdian.com/a/aijingjia">https://afdian.com/a/aijingjia</a><br/><br/>
       <img src="qrcode-afdian.svg" width="180" alt="爱发电二维码" /><br/>
       <sub>手机扫码打开爱发电主页</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>💬 QQ 群 / 竞价内测反馈群</b><br/>
+      群号：590807080<br/><br/>
+      <img src="qrcode-qq-group.png" width="180" alt="QQ群二维码" /><br/>
+      <sub>QQ 扫码加入内测群，或搜索群号 590807080</sub>
     </td>
   </tr>
 </table>
 
 - **工具地址：** https://aws.gongyongd.ccwu.cc/
 - **爱发电主页：** https://afdian.com/a/aijingjia（赞助支持本项目持续开发）
+- **QQ 内测群：** 590807080（竞价内测反馈群，扫码或搜群号加入）
 
 如果本工具对您有帮助，欢迎点一个 ⭐ Star 支持持续更新。
 
@@ -45,7 +52,7 @@
 
 - **免费浏览：** 每日 10:00 后可查看当日数据，并可查看全时段历史数据与回测统计页面
 - **全览权限：** 可浏览全部数据分类，获取方式见爱发电主页；开通由管理员在后台逐用户配置并设置到期日
-- **问题反馈：** 可在本仓库 [Issues](../../issues) 留言，或通过官网内测反馈群联系
+- **问题反馈：** 可在本仓库 [Issues](../../issues) 留言，或加入 QQ 内测群（590807080）交流
 
 ## 合规声明
 
@@ -58,3 +65,4 @@
 
 - 工具地址：https://aws.gongyongd.ccwu.cc/
 - 爱发电主页：https://afdian.com/a/aijingjia（赞助支持本项目持续开发）
+- QQ 内测群：590807080
